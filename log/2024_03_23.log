@@ -1,0 +1,194 @@
+2024-03-23 19:15:39.740005 [info] : ========== Server init ==========
+2024-03-23 19:15:39.740040 [info] : Port:1316, OpenLinger: false
+2024-03-23 19:15:39.740052 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-03-23 19:15:39.740060 [info] : LogSys level: 1
+2024-03-23 19:15:39.740068 [info] : srcDir: /home/www/Ê°åÈù¢/Work_Spack/Cpp_Web/resources/
+2024-03-23 19:15:39.740166 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-03-23 19:15:39.740186 [info] : ========== Server start ==========
+2024-03-23 19:15:49.415654 [info] : Client[18](127.0.0.1:5824) in, userCount:1
+2024-03-23 19:15:49.415789 [info] : Client[18] in!
+2024-03-23 19:15:49.480870 [info] : Client[19](127.0.0.1:9920) in, userCount:2
+2024-03-23 19:15:49.481190 [info] : Client[19] in!
+2024-03-23 19:15:49.489499 [info] : Client[20](127.0.0.1:14016) in, userCount:3
+2024-03-23 19:15:49.489578 [info] : Client[20] in!
+2024-03-23 19:15:49.490327 [info] : Client[21](127.0.0.1:17088) in, userCount:4
+2024-03-23 19:15:49.490593 [info] : Client[21] in!
+2024-03-23 19:15:49.491227 [info] : Client[22](127.0.0.1:17600) in, userCount:5
+2024-03-23 19:15:49.491283 [info] : Client[22] in!
+2024-03-23 19:15:49.492181 [info] : Client[23](127.0.0.1:18624) in, userCount:6
+2024-03-23 19:15:49.492248 [info] : Client[23] in!
+2024-03-23 19:16:13.770577 [info] : Verify name:zgzhhw pwd:Zlx0613%à0
+2024-03-23 19:16:14.401855 [info] : pwd error!
+2024-03-23 19:16:23.181316 [info] : Verify name:zgzhhw pwd:Zlx0613%à0
+2024-03-23 19:16:23.310573 [info] : user used!
+2024-03-23 19:16:39.133193 [info] : Verify name:zgzhhw pwd:Zlx0613%à0
+2024-03-23 19:16:39.277872 [info] : pwd error!
+2024-03-23 19:19:43.547810 [info] : ========== Server init ==========
+2024-03-23 19:19:43.547827 [info] : Port:1316, OpenLinger: false
+2024-03-23 19:19:43.547833 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-03-23 19:19:43.547932 [info] : LogSys level: 1
+2024-03-23 19:19:43.547940 [info] : srcDir: /home/www/Ê°åÈù¢/Work_Spack/Cpp_Web/resources/
+2024-03-23 19:19:43.547945 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-03-23 19:19:43.548025 [info] : ========== Server start ==========
+2024-03-23 19:19:52.994995 [info] : Client[18](127.0.0.1:10915) in, userCount:1
+2024-03-23 19:19:52.995104 [info] : Client[18] in!
+2024-03-23 19:19:53.073354 [info] : Client[19](127.0.0.1:12451) in, userCount:2
+2024-03-23 19:19:53.073454 [info] : Client[19] in!
+2024-03-23 19:19:53.086852 [info] : Client[20](127.0.0.1:15011) in, userCount:3
+2024-03-23 19:19:53.086951 [info] : Client[20] in!
+2024-03-23 19:19:53.088668 [info] : Client[21](127.0.0.1:17571) in, userCount:4
+2024-03-23 19:19:53.088748 [info] : Client[21] in!
+2024-03-23 19:19:53.090265 [info] : Client[22](127.0.0.1:19619) in, userCount:5
+2024-03-23 19:19:53.090356 [info] : Client[22] in!
+2024-03-23 19:19:53.091886 [info] : Client[23](127.0.0.1:22179) in, userCount:6
+2024-03-23 19:19:53.091986 [info] : Client[23] in!
+2024-03-23 19:20:02.492191 [info] : Verify name:zgzhhw pwd:Zlx0613%à0
+2024-03-23 19:20:02.508105 [info] : pwd error!
+2024-03-23 19:20:20.740926 [info] : Verify name:zgzhhw pwd:zlx0613%à0
+2024-03-23 19:20:20.759939 [info] : pwd error!
+2024-03-23 19:21:20.840976 [info] : Client[21] quit!
+2024-03-23 19:21:20.841128 [info] : Client[21](127.0.0.1:17571) quit, UserCount:5
+2024-03-23 19:21:20.841223 [info] : Client[18] quit!
+2024-03-23 19:21:20.841300 [info] : Client[18](127.0.0.1:10915) quit, UserCount:4
+2024-03-23 19:21:20.841637 [info] : Client[22] quit!
+2024-03-23 19:21:20.841809 [info] : Client[22](127.0.0.1:19619) quit, UserCount:3
+2024-03-23 19:21:20.841853 [info] : Client[19] quit!
+2024-03-23 19:21:20.841906 [info] : Client[19](127.0.0.1:12451) quit, UserCount:2
+2024-03-23 19:21:20.841920 [info] : Client[23] quit!
+2024-03-23 19:21:20.841960 [info] : Client[23](127.0.0.1:22179) quit, UserCount:1
+2024-03-23 19:21:20.841972 [info] : Client[20] quit!
+2024-03-23 19:21:20.842015 [info] : Client[20](127.0.0.1:15011) quit, UserCount:0
+2024-03-23 19:21:24.853783 [info] : Client[18](127.0.0.1:9440) in, userCount:1
+2024-03-23 19:21:24.854008 [info] : Client[18] in!
+2024-03-23 19:21:24.962533 [info] : Client[19](127.0.0.1:11488) in, userCount:2
+2024-03-23 19:21:24.962644 [info] : Client[19] in!
+2024-03-23 19:21:24.973557 [info] : Client[20](127.0.0.1:12000) in, userCount:3
+2024-03-23 19:21:24.973659 [info] : Client[20] in!
+2024-03-23 19:21:24.974677 [info] : Client[21](127.0.0.1:15584) in, userCount:4
+2024-03-23 19:21:24.974742 [info] : Client[21] in!
+2024-03-23 19:21:24.975598 [info] : Client[22](127.0.0.1:16096) in, userCount:5
+2024-03-23 19:21:24.975653 [info] : Client[22] in!
+2024-03-23 19:21:24.976587 [info] : Client[23](127.0.0.1:19168) in, userCount:6
+2024-03-23 19:21:24.976646 [info] : Client[23] in!
+2024-03-23 19:21:40.939102 [info] : Verify name:zhangxu pwd:Zlx0613%à0
+2024-03-23 19:21:49.859564 [info] : Verify name:zhangxu pwd:Zlx0613%à0
+2024-03-23 19:21:58.821320 [info] : Verify name:zhangxu pwd:Zlx0613%à0
+2024-03-23 19:23:04.901089 [info] : Client[20] quit!
+2024-03-23 19:23:04.904085 [info] : Client[20](127.0.0.1:12000) quit, UserCount:5
+2024-03-23 19:23:29.549013 [info] : Client[22] quit!
+2024-03-23 19:23:29.549388 [info] : Client[22](127.0.0.1:16096) quit, UserCount:4
+2024-03-23 19:23:29.549505 [info] : Client[18] quit!
+2024-03-23 19:23:29.549631 [info] : Client[18](127.0.0.1:9440) quit, UserCount:3
+2024-03-23 19:23:29.549671 [info] : Client[23] quit!
+2024-03-23 19:23:29.549767 [info] : Client[23](127.0.0.1:19168) quit, UserCount:2
+2024-03-23 19:23:29.549800 [info] : Client[21] quit!
+2024-03-23 19:23:29.549894 [info] : Client[21](127.0.0.1:15584) quit, UserCount:1
+2024-03-23 19:30:29.269736 [info] : ========== Server init ==========
+2024-03-23 19:30:29.269753 [info] : Port:1316, OpenLinger: false
+2024-03-23 19:30:29.269759 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-03-23 19:30:29.269764 [info] : LogSys level: 1
+2024-03-23 19:30:29.269769 [info] : srcDir: /home/www/Ê°åÈù¢/Work_Spack/Cpp_Web/resources/
+2024-03-23 19:30:29.269774 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-03-23 19:30:29.269779 [info] : ========== Server start ==========
+2024-03-23 19:30:32.021663 [info] : Client[18](127.0.0.1:41654) in, userCount:1
+2024-03-23 19:30:32.022629 [info] : Client[18] in!
+2024-03-23 19:30:32.034337 [info] : Client[19](127.0.0.1:42678) in, userCount:2
+2024-03-23 19:30:32.034437 [info] : Client[19] in!
+2024-03-23 19:30:32.045603 [info] : Client[20](127.0.0.1:43190) in, userCount:3
+2024-03-23 19:30:32.048813 [info] : Client[20] in!
+2024-03-23 19:32:25.815365 [info] : ========== Server init ==========
+2024-03-23 19:32:25.815383 [info] : Port:1316, OpenLinger: false
+2024-03-23 19:32:25.815389 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-03-23 19:32:25.815394 [info] : LogSys level: 1
+2024-03-23 19:32:25.815487 [info] : srcDir: /home/www/Ê°åÈù¢/Work_Spack/Cpp_Web/resources/
+2024-03-23 19:32:25.815496 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-03-23 19:32:25.815501 [info] : ========== Server start ==========
+2024-03-23 19:32:28.323123 [info] : Client[18](127.0.0.1:62119) in, userCount:1
+2024-03-23 19:32:28.323371 [info] : Client[18] in!
+2024-03-23 19:32:28.334195 [info] : Client[19](127.0.0.1:64167) in, userCount:2
+2024-03-23 19:32:28.334303 [info] : Client[19] in!
+2024-03-23 19:32:30.519242 [info] : Client[20](127.0.0.1:680) in, userCount:3
+2024-03-23 19:32:30.519364 [info] : Client[20] in!
+2024-03-23 19:32:30.521897 [info] : Client[21](127.0.0.1:4264) in, userCount:4
+2024-03-23 19:32:30.522056 [info] : Client[21] in!
+2024-03-23 19:32:30.525054 [info] : Client[23](127.0.0.1:5288) in, userCount:5
+2024-03-23 19:32:30.525166 [info] : Client[23] in!
+2024-03-23 19:32:30.525734 [info] : Client[24](127.0.0.1:6824) in, userCount:6
+2024-03-23 19:33:20.712435 [info] : ========== Server init ==========
+2024-03-23 19:33:20.712452 [info] : Port:1316, OpenLinger: false
+2024-03-23 19:33:20.712458 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-03-23 19:33:20.712565 [info] : LogSys level: 1
+2024-03-23 19:33:20.712587 [info] : srcDir: /home/www/Ê°åÈù¢/Work_Spack/Cpp_Web/resources/
+2024-03-23 19:33:20.712592 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-03-23 19:33:20.712622 [info] : ========== Server start ==========
+2024-03-23 19:33:29.308047 [info] : Client[18](127.0.0.1:45770) in, userCount:1
+2024-03-23 19:33:29.308232 [info] : Client[18] in!
+2024-03-23 19:33:29.325676 [info] : Client[19](127.0.0.1:49866) in, userCount:2
+2024-03-23 19:33:29.325818 [info] : Client[19] in!
+2024-03-23 19:33:33.238597 [info] : Client[20](127.0.0.1:52426) in, userCount:3
+2024-03-23 19:33:33.238697 [info] : Client[20] in!
+2024-03-23 19:33:33.240412 [info] : Client[21](127.0.0.1:52938) in, userCount:4
+2024-03-23 19:33:33.240482 [info] : Client[21] in!
+2024-03-23 19:33:33.240506 [info] : Client[22](127.0.0.1:56010) in, userCount:5
+2024-03-23 19:33:33.240518 [info] : Client[22] in!
+2024-03-23 19:33:33.241618 [info] : Client[23](127.0.0.1:57034) in, userCount:6
+2024-03-23 19:33:33.241812 [info] : Client[23] in!
+2024-03-23 19:34:36.225076 [info] : Client[21] quit!
+2024-03-23 19:34:36.225297 [info] : Client[21](127.0.0.1:52938) quit, UserCount:5
+2024-03-23 19:34:36.225345 [info] : Client[23] quit!
+2024-03-23 19:34:36.225402 [info] : Client[23](127.0.0.1:57034) quit, UserCount:4
+2024-03-23 19:34:36.225416 [info] : Client[18] quit!
+2024-03-23 19:34:36.225519 [info] : Client[18](127.0.0.1:45770) quit, UserCount:3
+2024-03-23 19:34:36.225612 [info] : Client[22] quit!
+2024-03-23 19:34:36.225707 [info] : Client[22](127.0.0.1:56010) quit, UserCount:2
+2024-03-23 19:34:36.225760 [info] : Client[20] quit!
+2024-03-23 19:34:36.225833 [info] : Client[20](127.0.0.1:52426) quit, UserCount:1
+2024-03-23 19:34:36.225880 [info] : Client[19] quit!
+2024-03-23 19:34:36.225938 [info] : Client[19](127.0.0.1:49866) quit, UserCount:0
+2024-03-23 19:37:24.197895 [info] : Client[18](127.0.0.1:18600) in, userCount:1
+2024-03-23 19:37:24.198032 [info] : Client[18] in!
+2024-03-23 19:37:24.326807 [info] : Client[19](127.0.0.1:22184) in, userCount:2
+2024-03-23 19:37:24.326941 [info] : Client[19] in!
+2024-03-23 19:37:24.339624 [info] : Client[20](127.0.0.1:22696) in, userCount:3
+2024-03-23 19:37:24.339793 [info] : Client[20] in!
+2024-03-23 19:37:24.339876 [info] : Client[21](127.0.0.1:26280) in, userCount:4
+2024-03-23 19:37:24.339944 [info] : Client[21] in!
+2024-03-23 19:37:24.340558 [info] : Client[22](127.0.0.1:28328) in, userCount:5
+2024-03-23 19:37:24.340655 [info] : Client[22] in!
+2024-03-23 19:37:24.341390 [info] : Client[23](127.0.0.1:31912) in, userCount:6
+2024-03-23 19:37:24.341521 [info] : Client[23] in!
+2024-03-23 19:38:48.134646 [info] : Client[21] quit!
+2024-03-23 19:38:48.134903 [info] : Client[21](127.0.0.1:26280) quit, UserCount:5
+2024-03-23 19:38:48.135122 [info] : Client[20] quit!
+2024-03-23 19:38:48.135343 [info] : Client[20](127.0.0.1:22696) quit, UserCount:4
+2024-03-23 19:38:48.135445 [info] : Client[19] quit!
+2024-03-23 19:38:48.135557 [info] : Client[19](127.0.0.1:22184) quit, UserCount:3
+2024-03-23 19:38:48.135586 [info] : Client[22] quit!
+2024-03-23 19:38:48.135661 [info] : Client[22](127.0.0.1:28328) quit, UserCount:2
+2024-03-23 19:38:48.135687 [info] : Client[18] quit!
+2024-03-23 19:38:48.135764 [info] : Client[18](127.0.0.1:18600) quit, UserCount:1
+2024-03-23 19:38:48.135790 [info] : Client[23] quit!
+2024-03-23 19:38:48.135872 [info] : Client[23](127.0.0.1:31912) quit, UserCount:0
+2024-03-23 19:39:32.678194 [info] : Client[18](127.0.0.1:48279) in, userCount:1
+2024-03-23 19:39:32.678494 [info] : Client[18] in!
+2024-03-23 19:39:32.785205 [info] : Client[19](127.0.0.1:50839) in, userCount:2
+2024-03-23 19:39:32.785322 [info] : Client[19] in!
+2024-03-23 19:39:32.804982 [info] : Client[20](127.0.0.1:54423) in, userCount:3
+2024-03-23 19:39:32.805038 [info] : Client[20] in!
+2024-03-23 19:39:32.806672 [info] : Client[21](127.0.0.1:58519) in, userCount:4
+2024-03-23 19:39:32.806770 [info] : Client[21] in!
+2024-03-23 19:39:32.807610 [info] : Client[22](127.0.0.1:60567) in, userCount:5
+2024-03-23 19:39:32.807691 [info] : Client[22] in!
+2024-03-23 19:39:32.808722 [info] : Client[23](127.0.0.1:62103) in, userCount:6
+2024-03-23 19:39:32.808835 [info] : Client[23] in!
+2024-03-23 19:40:44.459673 [info] : Client[23] quit!
+2024-03-23 19:40:44.460045 [info] : Client[23](127.0.0.1:62103) quit, UserCount:5
+2024-03-23 19:40:44.460279 [info] : Client[22] quit!
+2024-03-23 19:40:44.460546 [info] : Client[22](127.0.0.1:60567) quit, UserCount:4
+2024-03-23 19:40:44.461150 [info] : Client[18] quit!
+2024-03-23 19:40:44.461405 [info] : Client[18](127.0.0.1:48279) quit, UserCount:3
+2024-03-23 19:40:44.461600 [info] : Client[21] quit!
+2024-03-23 19:40:44.461824 [info] : Client[21](127.0.0.1:58519) quit, UserCount:2
+2024-03-23 19:40:44.461911 [info] : Client[19] quit!
+2024-03-23 19:40:44.462032 [info] : Client[19](127.0.0.1:50839) quit, UserCount:1
+2024-03-23 19:40:44.462164 [info] : Client[20] quit!
