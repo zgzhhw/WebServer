@@ -23,10 +23,19 @@
 
 
 ## Usage
-1. git clone https://github.com/zgzhhw/WebServer
-2. 在WebServer处打开终端，输入命令make进行编译
-3. **./bin/server**启动服务器
-4. 浏览器输入 ```localhost:1316```进入首页
+1. 安装配置mysql
+2. mysql -u root -p  // 之后输入密码登录 
+3. create database webserver;  // 建立yourdb库
+4. use webserver; // 创建user表
+5. CREATE TABLE user(
+    username char(50) NULL,
+    password char(50) NULL
+    )ENGINE=InnoDB;
+6. INSERT INTO user(username, password) VALUES('name', 'password'); // 添加数据，也可到时候注册，这里添加了可直接登录
+7. git clone https://github.com/zgzhhw/WebServer
+8. 在WebServer处打开终端，输入命令make进行编译
+9. **./bin/server**启动服务器
+10. 浏览器输入 ```localhost:1316```进入首页
 
 ---
 
