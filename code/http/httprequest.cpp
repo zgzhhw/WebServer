@@ -249,8 +249,8 @@ bool HttpRequest::UserVerify(const string &name, const string &pwd, bool isLogin
             }
         } 
         else { 
-            flag = false; 
-            LOG_INFO("user used!");
+            flag = !(name == row[0]); 
+            if(flag == false)LOG_INFO("user used!");
         }
     }
     mysql_free_result(res);
