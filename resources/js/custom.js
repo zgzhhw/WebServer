@@ -31,33 +31,7 @@
             }, 1000);
             event.preventDefault();
           });
-        });  
-
-        $(document).ready(function() {
-          $('form').on('submit', function(event) {
-              event.preventDefault(); // 阻止表单的默认提交行为
-      
-              // 这里可以添加验证用户名和密码的代码
-              // Get the values of the username and password fields
-              var username = $('#username').val();
-              var password = $('#password').val();
-
-              // Perform validation
-              if (username === 'admin' && password === 'password') {
-                // Validation passed, proceed with form submission
-                $('form').unbind('submit').submit();
-                window.location.href = 'https://www.baidu.com';
-              } 
-              else 
-              {
-                // Validation failed, display an error message
-                alert('Invalid username or password');
-              }
-      
-              // 如果验证通过，跳转到新的页面
-              
-          });
-      });
+        }); 
 
 
         // WOW Animation js
